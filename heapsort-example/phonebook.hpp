@@ -1,3 +1,4 @@
+#pragma once
 #ifndef PHONEBOOK_HPP_INCLUDED
 #define PHONEBOOK_HPP_INCLUDED
 #include "person.hpp"

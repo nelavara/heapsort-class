@@ -1,3 +1,4 @@
+#pragma once
 #ifndef PERSON_HPP_INCLUDED
 #define PERSON_HPP_INCLUDED
 

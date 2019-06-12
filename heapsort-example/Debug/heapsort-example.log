@@ -1,0 +1,6 @@
+﻿  main.cpp
+  person.cpp
+  phonebook.cpp
+  Generating Code...
+  C:\Users\deept\Source\Repos\heapsort-class\heapsort-example\main.cpp(21) : error C4700: uninitialized local variable 'entry' used
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 2.
