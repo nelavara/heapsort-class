@@ -14,7 +14,7 @@ void verify_entry(int&);
 
 int main()  //main function
 {
-	int entry; //user entry
+	int entry = 0; //user entry
 	person temp; //temp type of person
 	phonebook tempIndi; //temp Individual of type phone book.
 

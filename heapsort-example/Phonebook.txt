@@ -1,0 +1,206 @@
+Evan Perry
+Data Structures
+Dr.Tookey
+**********************Phone Book*****************************
+Moves: 7377
+Comparisons: 13442
+Anaya, Ethan W.
+(119) 030-2842
+Andrus, Vi G.
+(657) 555-0185
+Babb, Elmer P.
+(601) 555-0134
+Batts, Daniela Q.
+(129) 014-7933
+Beyer, Sophia H.
+(025) 913-5281
+Booker, Ferne Y.
+(596) 123-2734
+Braun, Domenic L.
+(984) 311-4615
+Burge, Maryanne S.
+(464) 911-3656
+Carrion, Jacques U.
+(023) 846-8996
+Case, Martin G.
+(150) 811-1720
+Cecil, Loraine X.
+(0969) 65-5208
+Chau, Kenneth Z.
+(768) 555-0185
+Chavis, Timmy J.
+(714) 811-2981
+Clawson, Tosha W.
+(206) 211-1099
+Clifford, Shizuko R.
+(897) 311-3261
+Comer, Wes X.
+(865) 014-1791
+Corbett, Susannah T.
+(2924) 44-9574
+Cowles, Elton T.
+(185) 442-0910
+Crabtree, Jospeh K.
+(942) 555-0102
+Delatorre, Sang J.
+(7949) 56-5649
+Doyle, Zoraida M.
+(434) 555-0135
+Dunlap, Thersa Z.
+(742) 042-8850
+Ebert, Peter N.
+(937) 555-0163
+Emanuel, Eleni R.
+(747) 555-0184
+Felix, Cecile W.
+(613) 033-1184
+Ferrer, Joey R.
+(551) 011-6161
+Fraley, Felix U.
+(222) 111-3105
+Fuchs, Berry U.
+(3949) 47-3446
+Gaston, Joel Z.
+(4905) 14-0737
+Gilman, Karla U.
+(6925) 11-2146
+Goode, Genevie L.
+(9993) 73-4014
+Goulet, Madalene U.
+(004) 307-1798
+Granados, Francis M.
+(392) 152-4174
+Gipson, Johnetta W.
+(592) 189-3204
+Greco, Broderick S.
+(791) 555-0131
+Gagnon, Opal Q.
+(719) 555-0138
+Greenlee, Robin X.
+(783) 069-7979
+Handy, Rufus J.
+(403) 311-1613
+Henry, Madelyn A.
+(090) 017-6088
+Higdon, Randy T.
+(422) 211-0001
+Hoang, Latia Y.
+(140) 555-0144
+Hodges, Ching Y.
+(139) 126-6570
+Holt, Tracy O.
+(341) 811-8359
+Hornsby, Branden A.
+(8939) 85-3386
+Huffman, Kaye Q.
+(381) 555-0113
+Ibarra, Vanesa H.
+(470) 711-2906
+Knowlton, Cristal I.
+(283) 555-0172
+Kohler, Leopoldo A.
+(9906) 00-5243
+Kruse, Peter Q.
+(481) 555-0190
+Lance, Leonel G.
+(498) 555-0134
+Landry, Dominique D.
+(969) 193-9064
+Leggett, Lorina X.
+(080) 999-4181
+Lloyd, Tabitha O.
+(9910) 38-5194
+Long, Raymon L.
+(674) 189-4775
+Lowry, Elicia Z.
+(909) 411-6693
+Lucero, John R.
+(089) 810-7069
+Marino, Harley A.
+(855) 611-0406
+Marion, Jermaine I.
+(275) 555-0106
+Mccarty, Matt F.
+(794) 555-0135
+Mcclellan, Keneth S.
+(974) 018-5319
+Mcclung, Everett U.
+(569) 311-3744
+Mcghee, Maxine C.
+(907) 011-4562
+Mcguire, Lynna P.
+(662) 016-3919
+Mckenzie, Twila G.
+(054) 382-4765
+Mcmahan, Theo Q.
+(193) 211-3292
+Meek, Eleonore D.
+(019) 835-5567
+Naquin, Rashad B.
+(057) 611-3110
+Negrete, Wilburn Z.
+(343) 511-5360
+Newkirk, Shirlee X.
+(7958) 01-5062
+Nolan, Abdul Y.
+(347) 611-2974
+Ojeda, Chang N.
+(030) 026-5662
+Parr, Jimmie X.
+(260) 011-0817
+Peck, Johna M.
+(317) 555-0154
+Pendleton, Virgil M.
+(563) 311-3293
+Pond, Errol F.
+(4998) 01-1900
+Ramon, Stacey O.
+(803) 811-5719
+Randle, Britt X.
+(470) 068-9740
+Rasmussen, Justin C.
+(517) 411-8728
+Reis, Ray W.
+(603) 211-1855
+Roderick, Sharolyn S.
+(9917) 99-8350
+Sayre, Demetrius G.
+(156) 555-0196
+Schultz, Franklyn D.
+(8948) 92-7663
+Seeley, Timothy W.
+(545) 005-1185
+Sewell, Yuriko D.
+(071) 414-3420
+Shay, Lemuel A.
+(0935) 76-1186
+Shelton, Marybeth B.
+(959) 555-0118
+Song, Lavone X.
+(418) 711-1332
+Starnes, Shelton Y.
+(440) 111-3594
+Stegall, Marivel W.
+(500) 511-7363
+Sun, September M.
+(081) 555-0118
+Thorpe, Rayford R.
+(639) 511-8697
+Trice, Deshawn F.
+(015) 555-0106
+Van, Raymond U.
+(245) 311-8844
+Vickery, Jerrod F.
+(303) 014-2452
+Waldron, Virgil R.
+(175) 555-0144
+Washburn, Collin C.
+(819) 555-0141
+Wheat, Coleman M.
+(185) 156-9782
+Worrell, Bryan Q.
+(072) 635-3708
+Ybarra, Troy U.
+(526) 911-3917
+Zuniga, Ronni I.
+(115) 735-6616
