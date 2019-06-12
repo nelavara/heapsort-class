@@ -1,6 +1,3 @@
-//Evan Perry
-//Data Structures
-//Dr. Tookey
 #include "phonebook.hpp"
 #include <fstream>
 #include <algorithm>

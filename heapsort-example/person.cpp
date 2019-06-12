@@ -1,6 +1,3 @@
-//Evan Perry
-//Data Structures
-
 #include "person.hpp"
 
 string person::getName(void)   //Gets name
